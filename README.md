@@ -1,5 +1,5 @@
-#Rules for Tic-Tac-Toe 
-
+# Rules for Tic-Tac-Toe 
+<br>
 1. The game is played on a grid that's 3 squares by 3 squares. 
 <b>
 2. You are X , your friend  is O . Players take turns putting their marks in empty squares. 
