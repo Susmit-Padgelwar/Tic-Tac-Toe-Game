@@ -1,5 +1,4 @@
 # Rules for Tic-Tac-Toe 
-
 <br>
 1. The game is played on a grid that's 3 squares by 3 squares. 
 <br>
